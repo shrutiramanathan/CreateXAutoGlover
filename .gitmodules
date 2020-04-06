@@ -4,3 +4,6 @@
 [submodule "Servo"]
 	path = Servo
 	url = https://github.com/adafruit/Servo.git
+[submodule "Ultrasonic_Sensor"]
+	path = Ultrasonic_Sensor
+	url = https://github.com/JRodrigoTech/Ultrasonic-HC-SR04.git
