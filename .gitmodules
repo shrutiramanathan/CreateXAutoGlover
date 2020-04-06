@@ -1,3 +1,6 @@
 [submodule "Adafruit_Motor_Shield_V2_Library"]
 	path = Adafruit_Motor_Shield_V2_Library
 	url = https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
+[submodule "Servo"]
+	path = Servo
+	url = https://github.com/adafruit/Servo.git
